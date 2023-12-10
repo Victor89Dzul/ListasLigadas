@@ -7,7 +7,7 @@
  */
 public class Node
  {
-    String name; // Cambiado el nombre del campo de datos a "data"
+    String name; 
     Node previous; // Agregado campo enlace a nodo anterior
     Node next; // Campo enlace a nodo siguiente
 
